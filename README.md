@@ -2,12 +2,12 @@
 
 
 # sensory-3d-fidget
-My 3D printed fidget is a small, handheld toy made with a 3D printer, designed to be a sensory to keep your hands busy and help with focus or stress relief. 
 
-this is a multi functional sensory toy for pain-stimulation, spikes, rolling objects and other tactile sensations for stress reduction, anxiety management and behaviour regulation.
+My 3D printed fidget is a small handheld toy designed to be a sensory tool. It keeps your hands busy and helps with focus or stress relief.
+
+This multi functional sensory toy offers pain stimulation spikes rolling objects and other tactile sensations. It’s great for stress reduction anxiety management and behaviour regulation.
 
 [https://cad.onshape.com/documents/e9154aab6fcbae65ea15efff](https://makerworld.com/en/models/2739964-sensory-fidget)
-if this link fails please copy and paste it in a new tab
 
 <img width="3024" height="4032" alt="IMG_0070" src="https://github.com/user-attachments/assets/4e77a30a-02aa-441f-be4f-1c439022cb54" />
 
